@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\拉钩学习\\\\实践项目\\\\SSR-Nuxt\\\\pages\\\\article"
+      }
+    ]
+  }
+]
